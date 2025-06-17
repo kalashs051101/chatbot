@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+vectorstore/db_faiss/*
+!vectorstore/db_faiss/.gitkeep
